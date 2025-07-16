@@ -1,7 +1,7 @@
 {
-    "name": "Turbo-Tech - Servizi Tecnici Industriali",
+    "name": "Turbo-Tech - Rigenerazione turbocompressori",
     "short_name": "Turbo-Tech",
-    "description": "Servizi tecnici industriali e manutenzione per aziende industriali e manifatturiere in Italia",
+    "description": "Vendita, rigenerazione e riparazione di turbocompressori.",
     "start_url": "/",
     "display": "standalone",
     "background_color": "#ffffff",
